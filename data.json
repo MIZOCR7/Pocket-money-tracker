@@ -1,0 +1,11 @@
+{
+    "balance": 400.0,
+    "expenses": [
+        {
+            "amount": 100.0,
+            "category": "Burgar Sandawich",
+            "description": "Just a sandwich",
+            "time": "2026-05-21 18:53:31"
+        }
+    ]
+}
