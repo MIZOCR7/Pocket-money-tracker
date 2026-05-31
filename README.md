@@ -5,7 +5,7 @@ Pocket Money Tracker is a simple desktop application that helps keep track of pe
 The application keeps a running balance, stores transaction history, and automatically saves data so it is available the next time the program is opened.
 
 ## What It Can Do
-
+it will calculate Ur money YUH!
 * Add income and update the balance instantly.
 * Record expenses with a category and description.
 * View transaction history in a table.
