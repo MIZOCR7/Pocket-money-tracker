@@ -51,3 +51,4 @@ Some features I would like to add in the future include:
 * Editing and deleting transactions.
 * Exporting transaction history to a file.
 
+<img width="775" height="851" alt="Screenshot 2026-06-01 003523" src="https://github.com/user-attachments/assets/e53141ce-aba8-465e-8d93-414d42085a23" />
